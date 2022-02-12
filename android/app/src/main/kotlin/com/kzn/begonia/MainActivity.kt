@@ -1,0 +1,6 @@
+package com.kzn.begonia
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

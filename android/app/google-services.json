@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "630503144451",
+    "project_id": "begoniaburma",
+    "storage_bucket": "begoniaburma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630503144451:android:e76ce65b5449c39cd86236",
+        "android_client_info": {
+          "package_name": "com.kzn.begonia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630503144451-9s10i0amkgn3qt2v728ueu4k3qdrocma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kzn.begonia",
+            "certificate_hash": "a4b6ef87b520420c8f31132b8140e671f9782600"
+          }
+        },
+        {
+          "client_id": "630503144451-k92f9lu4ekqpf5vba9uha4vr0ghogr0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kzn.begonia",
+            "certificate_hash": "16727ee184f84e424d41e321d3c3defe08e67480"
+          }
+        },
+        {
+          "client_id": "630503144451-qae9kr3rnmasrc82k79j4mffhha138v1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kzn.begonia",
+            "certificate_hash": "c5499020e08737f9257aa90725ee5771bfa64e65"
+          }
+        },
+        {
+          "client_id": "630503144451-vt1vpqf9q8l9l2e30t9kvtaojmk58b9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kzn.begonia",
+            "certificate_hash": "af4d0b5361a2a297b8e64315787e0db3da16aaf9"
+          }
+        },
+        {
+          "client_id": "630503144451-lnv78ccadd4qsamk9damfm4os5h4k7jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0PLNBheTb7YhnaNwy-0tJTGFTv_H5olg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630503144451-lnv78ccadd4qsamk9damfm4os5h4k7jr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "630503144451-2ppmger2fk6c3k1c85r1ga80q66982u3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kzn.begonia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
