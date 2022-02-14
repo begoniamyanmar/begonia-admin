@@ -30,7 +30,7 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       backgroundColor: scaffoldBackground,
       appBar: AppBar(
-        title: const Text("𝑯𝒂𝒑𝒑𝒚 𝒂𝒏𝒅 𝑶𝒏𝒍𝒚 𝑴𝒚 𝑩𝒆𝒈𝒐𝒏𝒊𝒂", style: TextStyle(color: Colors.white, fontSize: 16),),
+        title: const Text("HAPPY AND ONLY MY BEGONIA", style: TextStyle(color: Colors.white, fontSize: 16),),
         backgroundColor: kPrimaryColor,
         elevation: 0,
         // centerTitle: true,
