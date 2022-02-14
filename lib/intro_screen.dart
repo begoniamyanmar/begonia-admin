@@ -23,6 +23,23 @@ class OnBoardingPage extends StatelessWidget {
           image: buildImage('assets/splash_screen/Slide1.png'),
           decoration: getPageDecoration(),
         ),
+
+        PageViewModel(
+          title: "🌺   HAPPY AND ONLY MY BEGONIA   🌺",
+          body: ''' 
+          🌺 Begonia ဆိုတာ 🌺 
+          🌿 ️တစ်နေကုန် အေးမြမယ်...
+          🌿 ️ပေါ့ပါးမယ်..
+          🌿 ️သက်သောင့်သက်သာရှိမယ်...
+          🌿 ️ရိုးရှင်းစွာလှပမယ်...
+          🌿 ️ဘောင်းဘီနဲ့ဝတ်ဝတ် 
+          🌿 စကပ်နဲ့ဝတ်ဝတ်လှနေမယ်..
+          🌿 ️ဘယ်နေရာသွားသွား 
+          🌿 ဝတ်လို့ရစေရမယ်...
+          🌿 ️ဈေးနှုန်းသက်သာမယ်...''',
+          image: buildImage('assets/splash_screen/Slide1.png'),
+          decoration: getPageDecoration(),
+        ),
         PageViewModel(
           title: '🌺 EVERYTIME YOU WILL NEED MY BEGONIA 🌺',
           body: '''

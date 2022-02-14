@@ -30,6 +30,25 @@
   <link rel="manifest" href="manifest.json">
 </head>
 <body>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-messaging.js"></script>
+
+  <script>
+      var firebaseConfig = {
+        apiKey: "AIzaSyBivsEZmvXZGSUH_FoxKtTMUymwFb0fzbo",
+        authDomain: "begoniaburma.firebaseapp.com",
+        databaseURL: "https://begoniaburma.firebaseio.com",
+        projectId: "begoniaburma",
+        storageBucket: "begoniaburma.appspot.com",
+        messagingSenderId: "630503144451",
+        appId: "1:630503144451:web:2eb1cdd8d9c60492d86236",
+      };
+
+      // Initialize Firebase
+      firebase.initializeApp(firebaseConfig);
+    </script>
   <!-- This script installs service_worker.js to provide PWA functionality to
        application. For more information, see:
        https://developers.google.com/web/fundamentals/primers/service-workers -->
